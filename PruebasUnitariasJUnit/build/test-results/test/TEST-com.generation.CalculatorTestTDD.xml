@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.generation.CalculatorTestTDD" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-10-22T21:29:33" hostname="MacBook-Air-de-Paula.local" time="0.032">
+  <properties/>
+  <testcase name="divideTest()" classname="com.generation.CalculatorTestTDD" time="0.024"/>
+  <testcase name="addTest()" classname="com.generation.CalculatorTestTDD" time="0.001"/>
+  <testcase name="multiplyTest()" classname="com.generation.CalculatorTestTDD" time="0.001"/>
+  <testcase name="subtractTest()" classname="com.generation.CalculatorTestTDD" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
